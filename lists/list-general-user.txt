@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# Basiliskatrage/discord-zapret a6732ba2efb1
